@@ -1,0 +1,191 @@
+.headline {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: 5px solid;
+    border-color: orange;
+}
+
+.orange {
+    color: orange;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(234, 51, 51), rgb(189, 226, 25));
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.first-p {
+    text-align: justify;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+
+#mission-margin {
+    margin-top: 150px;
+    background-image: url(Shapes/shape-12.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+.mission {
+    font-size: 40px;
+    text-align: center;
+}
+
+#pro-editor {
+    width: 20%;
+    margin: 10px;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+#pro-editor img {
+    width: 40%;
+}
+
+#developer {
+    width: 20%;
+    margin: 10px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+#developer img {
+    width: 50%;
+}
+
+#engineer {
+    width: 20%;
+    margin: 10px;
+    background-color: rgb(255, 245, 160);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+#engineer img {
+    width: 40%;
+}
+
+.center {
+    justify-content: center;
+}
+
+#biker-part {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: url(Shapes/shape-10.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 90px;
+}
+
+#biker-img {
+    width: 30%;
+}
+
+#biker-img img {
+    width: 90%;
+}
+
+#biker-p {
+    width: 50%;
+    text-align: justify;
+}
+
+#traveller {
+    margin: 100px 100px;
+    background-image: url(Shapes/shape-13.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+
+#traveller-p {
+    width: 60%;
+    text-align: justify;
+    margin-right: 30px;
+    margin-left: 140px;
+}
+
+#traveller-img {
+    width: 40%;
+    margin-right: 120px;
+    margin-top: 60px;
+}
+
+#traveller-img img {
+    width: 100%;
+}
+
+#worthy-part {
+    margin-top: 100px;
+    background-image: url(Shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: right;
+}
+
+#worthy-contain {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+}
+
+#worthy-img {
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#worthy-img img {
+    width: 75%;
+}
+
+#name {
+    font-size: 30px;
+}
+
+#worthy-p {
+    width: 60%;
+    text-align: justify;
+    margin-right: 90px;
+
+}
+
+.white {
+    color: white;
+}
+
+footer {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    background-color: brown;
+    padding: 20px;
+
+}
